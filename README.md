@@ -1,4 +1,4 @@
-# GiftName — starter website
+# Tohfa - Little things. Lasting feelings.
 
 A responsive static frontend inspired by the GiftName mockup. It is built with plain HTML, CSS and JavaScript, so it needs no Node.js setup or build step.
 
